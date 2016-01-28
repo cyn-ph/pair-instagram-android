@@ -17,9 +17,6 @@ We recommend one base on the Nexus 9.
 All tasks in the pair depend on the previous one, so you will have to finish the
 first one before going to the next one.
 
-We are providing you with a shell project that may include some functionality, it's
-up to you to use it. Remember that you are under clock so make your choices wisely.
-
 To complete the pair you can use anything available in the Android SDK 
 (except for deprecated stuff) and support libraries. You can use **public** available
 libraries too, except for the Instagram Android SDK (we don't want to it to be THAT easy).
